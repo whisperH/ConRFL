@@ -15,7 +15,7 @@ python setup.py develop
 following this: [link](https://github.com/facebookresearch/faiss/issues/821)
 - install Crank failed
 execute the commands step by step in Makefile
-- ImportError: /lib64/libstdc++.so.6: version `GLIBCXX_3.4.26' not found (required by /home/huangjinze/.conda/envs/lreid/lib/python3.7/site-packages/faiss/../../../libfaiss.so)
+- ImportError: /lib64/libstdc++.so.6: version `GLIBCXX_3.4.26' not found
 following this: [link](https://github.com/AllenDowney/ThinkStats2/issues/92)
 ```angular2html
  export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/anaconda/anaconda3/lib/

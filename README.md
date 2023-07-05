@@ -22,7 +22,7 @@ following this: [link](https://github.com/AllenDowney/ThinkStats2/issues/92)
 ```
 # Train and test
 
-To train with PTKP, simply run
+To train with ConRFL, simply run
 ```bash
 # train ConRFL
 python continual_part_train.py --config_file configs/no_replay_list1/coseg_model.yaml
